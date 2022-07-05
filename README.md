@@ -1,2 +1,3 @@
 #project-robot chess game
-Animation of a chess game using SVG
+
+Animation of a chess game using pure SVG
