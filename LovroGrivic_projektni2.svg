@@ -1,0 +1,430 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+
+
+
+
+<image x="-89" y="200" width="2000" height="1700" href="SVG/stol_crni.svg" >
+    </image>
+
+
+<image x="300" y="118" width="1200" height="900" href="SVG/ploca.svg" >
+    </image>
+
+
+<!--BIJELI-->
+<image x="475" y="18" width="60" height="900" href="SVG/pijun_b.svg" >
+    </image>
+
+<image x="540" y="58" width="60" height="900" href="SVG/pijun_b.svg" >
+    </image>
+
+<image x="605" y="98" width="60" height="900" href="SVG/pijun_b.svg" >
+    </image>
+
+<image x="670" y="138" width="60" height="900" href="SVG/pijun_b.svg" >
+    <animate attributeName="x" from="670" to="800" begin="potez_2.end+1s" dur="1.5s" fill="freeze" id="potez_3" />
+    <animate attributeName="y" from="138" to="60" begin="potez_2.end+1s" dur="1.5s" fill="freeze" id="potez_3" />
+</image>
+
+<image x="735" y="178" width="60" height="900" href="SVG/pijun_b.svg" >
+    <animate attributeName="x" from="735" to="870" begin="4s" dur="1.5s" fill="freeze" id="potez_1" />
+    <animate attributeName="y" from="178" to="95" begin="4s" dur="1.5s" fill="freeze" id="potez_1" />
+
+    <animate attributeName="x" from="870" to="1000" begin="potez_6.end+1s" dur="1.5s" fill="freeze" id="potez_7" />
+    <animate attributeName="y" from="95" to="100" begin="potez_6.end+1s" dur="1.5s" fill="freeze" id="potez_7" />
+
+    <animate attributeName="x" from="1000" to="1130" begin="potez_10.end+1s" dur="1.5s" fill="freeze" id="potez_11" />
+    <animate attributeName="y" from="100" to="100" begin="potez_10.end+1s" dur="1.5s" fill="freeze" id="potez_11" />
+
+    <animate attributeName="x" from="1130" to="1270" begin="potez_12.end+1s" dur="1.5s" fill="freeze" id="potez_13" />
+    <animate attributeName="y" from="100" to="100" begin="potez_12.end+1s" dur="1.5s" fill="freeze" id="potez_13" />
+</image>
+
+
+<image x="865" y="248" width="60" height="900" href="SVG/pijun_b.svg" >
+    <animate attributeName="x" from="865" to="1135" begin="crvena_dolazak_2.end" dur="1s" fill="freeze" id="potez_13" />
+    <animate attributeName="y" from="248" to="-622" begin="crvena_dolazak_2.end" dur="1s" fill="freeze" id="potez_13" />
+</image>
+
+<image x="930" y="288" width="60" height="900" href="SVG/pijun_b.svg" >
+    </image>
+<!--BIJELI-->
+
+
+
+<!-- CRNI-->
+<image x="870" y="-200" width="60" height="900" href="SVG/top_c.svg" >
+    </image>
+
+<image x="930" y="-160" width="60" height="900" href="SVG/konj_c.svg" >
+    </image>
+
+<image x="995" y="-120" width="60" height="900" href="SVG/lovac_c.svg" >
+    <animate attributeName="x" from="995" to="870" begin="potez_3.end+1s" dur="1.5s" fill="freeze" id="potez_4" />
+    <animate attributeName="y" from="-120" to="-130" begin="potez_3.end+1s" dur="1.5s" fill="freeze" id="potez_4" />
+
+    <animate attributeName="x" from="870" to="865" begin="potez_7.end+1s" dur="1.5s" fill="freeze" id="potez_8" />
+    <animate attributeName="y" from="-130" to="248" begin="potez_7.end+1s" dur="1.5s" fill="freeze" id="potez_8" />
+    </image>
+
+<image x="1070" y="-90" width="60" height="900" href="SVG/kraljica_c.svg" >
+    </image>
+
+<image x="1135" y="-55" width="60" height="900" href="SVG/kralj_c.svg" >
+    </image>
+
+<image x="1200" y="-10" width="60" height="900" href="SVG/lovac_c.svg" >
+    </image>
+
+
+
+<!-- CRNI-->
+
+
+
+
+<!-- CRNI-->
+<image x="805" y="-168" width="60" height="900" href="SVG/pijun_c.svg" >
+    
+</image>
+
+<image x="865" y="-128" width="60" height="900" href="SVG/pijun_c.svg"  >
+    <animate attributeName="x" from="865" to="805" begin="potez_1.end+1s" dur="1.5s" fill="freeze" id="potez_2" />
+    <animate attributeName="y" from="-128" to="-95" begin="potez_1.end+1s" dur="1.5s" fill="freeze" id="potez_2" />
+</image>
+
+<image x="930" y="-88" width="60" height="900" href="SVG/pijun_c.svg" >
+    </image>
+
+<image x="1000" y="-48" width="60" height="900" href="SVG/pijun_c.svg" >
+    </image>
+
+<image x="1065" y="-8" width="60" height="900" href="SVG/pijun_c.svg">
+    </image>
+
+<image x="1135" y="22" width="60" height="900" href="SVG/pijun_c.svg" >
+    <animate attributeName="x" from="1135" to="1000" begin="potez_5.end+1s" dur="1.5s" fill="freeze" id="potez_6" />
+    <animate attributeName="y" from="22" to="100" begin="potez_5.end+1s" dur="1.5s" fill="freeze" id="potez_6" />
+
+    <animate attributeName="x" from="1000" to="1138" begin="crvena_dolazak_1.end" dur="1s" fill="freeze" />
+    <animate attributeName="y" from="100" to="-523" begin="crvena_dolazak_1.end" dur="1s" fill="freeze"/>
+</image>
+
+<image x="1200" y="62" width="60" height="900" href="SVG/pijun_c.svg" >
+    <animate attributeName="x" from="1200" to="1130" begin="potez_9.end+1s" dur="1.5s" fill="freeze" id="potez_10" />
+    <animate attributeName="y" from="62" to="100" begin="potez_9.end+1s" dur="1.5s" fill="freeze" id="potez_10" />
+    
+    
+    <animate attributeName="x" from="1130" to="1135" begin="crvena_dolazak_3.end" dur="0.75s" fill="freeze" id="potez_13" />
+    <animate attributeName="y" from="100" to="-620" begin="crvena_dolazak_3.end" dur="0.75s" fill="freeze" id="potez_13" />
+</image>
+
+
+<!-- CRNI-->
+
+<!--BIJELI-->
+<image x="410" y="58" width="60" height="900" href="SVG/top_b.svg" >
+    </image>
+
+<image x="470" y="98" width="60" height="900" href="SVG/konj_b.svg" >
+    </image>
+
+<image x="535" y="138" width="60" height="900" href="SVG/lovac_b.svg" >
+    </image>
+
+<image x="740" y="258" width="60" height="900" href="SVG/lovac_b.svg" >
+    <animate attributeName="x" from="740" to="740" begin="potez_4.end+1s" dur="1.5s" fill="freeze" id="potez_5" />
+    <animate attributeName="y" from="258" to="100" begin="potez_4.end+1s" dur="1.5s" fill="freeze" id="potez_5" />
+
+    <animate attributeName="x" from="740" to="1140" begin="potez_14.end+1s" dur="1.5s" fill="freeze" id="potez_15" />
+    <animate attributeName="y" from="100" to="100" begin="potez_14.end+1s" dur="1.5s" fill="freeze" id="potez_15" />
+    
+</image>
+
+<image x="605" y="178" width="60" height="900" href="SVG/kraljica_b.svg" >
+    <animate attributeName="x" from="605" to="1135" begin="potez_8.end+1s" dur="1.5s" fill="freeze" id="potez_9" />
+    <animate attributeName="y" from="178" to="180" begin="potez_8.end+1s" dur="1.5s" fill="freeze" id="potez_9" />
+
+     <animate attributeName="x" from="1135" to="1135" begin="crvena_dolazak_5.end" dur="0.75s" fill="freeze" />
+    <animate attributeName="y" from="180" to="-620" begin="crvena_dolazak_5.end" dur="0.75s" fill="freeze" />
+    </image>
+
+<image x="800" y="208" width="60" height="900" href="SVG/pijun_b.svg" >
+    </image>
+
+<image x="675" y="208" width="60" height="900" href="SVG/kralj_b.svg" >
+    </image>
+
+
+
+<image x="805" y="288" width="60" height="900" href="SVG/konj_b.svg" >
+
+    </image>
+
+<image x="875" y="328" width="60" height="900" href="SVG/top_b.svg" >
+    </image>
+
+<!--BIJELI-->
+
+<image x="1270" y="20" width="60" height="900" href="SVG/konj_c.svg">
+    <animate attributeName="x" from="1270" to="1070" begin="potez_11.end+1s" dur="1.5s" fill="freeze" id="potez_12" />
+    <animate attributeName="y" from="20" to="60" begin="potez_11.end+1s" dur="1.5s" fill="freeze" id="potez_12" />
+
+
+    
+
+    <animate attributeName="x" from="1070" to="1135" begin="potez_13.end+1s" dur="1.5s" fill="freeze" id="potez_14" />
+    <animate attributeName="y" from="60" to="180" begin="potez_13.end+1s" dur="1.5s" fill="freeze" id="potez_14" />
+    
+    </image>
+
+<image x="1335" y="70" width="60" height="900" href="SVG/top_c.svg" >
+    </image>
+
+<image x="1270" y="102" width="60" height="900" href="SVG/pijun_c.svg" >
+    <animate attributeName="x" from="1270" to="1135" begin="crvena_dolazak_4.end" dur="0.75s" fill="freeze" id="potez_13" />
+    <animate attributeName="y" from="102" to="-618" begin="crvena_dolazak_4.end" dur="0.75s" fill="freeze" id="potez_13" />
+    </image>
+
+<image x="580" y="-1000" width="1000" height="1000" href="SVG/robot.svg" >
+
+
+    <animate attributeName="x" from="580" to="180" begin="3s" dur="1s" fill="freeze" id="ruka_1_dolazak" />
+    <animate attributeName="y" from="-1000" to="-400" begin="3s" dur="1s" fill="freeze" id="ruka_1_dolazak"/>
+
+    <animate attributeName="x" from="180" to="315" begin="ruka_1_dolazak.end" dur="1.5s" fill="freeze" id="ruka_1_pokret" />
+    <animate attributeName="y" from="-400" to="-483" begin="ruka_1_dolazak.end" dur="1.5s" fill="freeze" id="ruka_1_pokret"/>
+
+    <animate attributeName="x" from="315" to="580" begin="ruka_1_pokret.end" dur="0.5s" fill="freeze" id="ruka_1_odlazak" />
+    <animate attributeName="y" from="-483" to="-1000" begin="ruka_1_pokret.end" dur="0.5s" fill="freeze" id="ruka_1_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="305" begin="ruka_1_odlazak.end" dur="0.5s" fill="freeze" id="ruka_2_dolazak" />
+    <animate attributeName="y" from="-1000" to="-705" begin="ruka_1_odlazak.end" dur="0.5s" fill="freeze" id="ruka_2_dolazak"/>
+
+    <animate attributeName="x" from="305" to="245" begin="ruka_2_dolazak.end" dur="1.5s" fill="freeze" id="ruka_2_pokret" />
+    <animate attributeName="y" from="-705" to="-672" begin="ruka_2_dolazak.end" dur="1.5s" fill="freeze" id="ruka_2_pokret"/>
+
+    <animate attributeName="x" from="245" to="580" begin="ruka_2_pokret.end" dur="0.5s" fill="freeze" id="ruka_2_odlazak" />
+    <animate attributeName="y" from="-672" to="-1000" begin="ruka_2_pokret.end" dur="0.5s" fill="freeze" id="ruka_2_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="115" begin="ruka_2_odlazak.end" dur="0.5s" fill="freeze" id="ruka_3_dolazak" />
+    <animate attributeName="y" from="-1000" to="-445" begin="ruka_2_odlazak.end" dur="0.5s" fill="freeze" id="ruka_3_dolazak"/>
+
+    <animate attributeName="x" from="115" to="245" begin="ruka_3_dolazak.end" dur="1.5s" fill="freeze" id="ruka_3_pokret" />
+    <animate attributeName="y" from="-445" to="-523" begin="ruka_3_dolazak.end" dur="1.5s" fill="freeze" id="ruka_3_pokret"/>
+
+    <animate attributeName="x" from="245" to="580" begin="ruka_3_pokret.end" dur="0.5s" fill="freeze" id="ruka_3_odlazak" />
+    <animate attributeName="y" from="-523" to="-1000" begin="ruka_3_pokret.end" dur="0.5s" fill="freeze" id="ruka_3_odlazak"/>
+
+
+
+
+
+    <animate attributeName="x" from="580" to="440" begin="ruka_3_odlazak.end" dur="0.5s" fill="freeze" id="ruka_4_dolazak" />
+    <animate attributeName="y" from="-1000" to="-695" begin="ruka_3_odlazak.end" dur="0.5s" fill="freeze" id="ruka_4_dolazak"/>
+
+    <animate attributeName="x" from="440" to="315" begin="ruka_4_dolazak.end" dur="1.5s" fill="freeze" id="ruka_4_pokret" />
+    <animate attributeName="y" from="-695" to="-705" begin="ruka_4_dolazak.end" dur="1.5s" fill="freeze" id="ruka_4_pokret"/>
+
+    <animate attributeName="x" from="315" to="580" begin="ruka_4_pokret.end" dur="0.5s" fill="freeze" id="ruka_4_odlazak" />
+    <animate attributeName="y" from="-705" to="-1000" begin="ruka_4_pokret.end" dur="0.5s" fill="freeze" id="ruka_4_odlazak"/>
+
+
+
+    <animate attributeName="x" from="580" to="183" begin="ruka_4_odlazak.end" dur="0.5s" fill="freeze" id="ruka_5_dolazak" />
+    <animate attributeName="y" from="-1000" to="-315" begin="ruka_4_odlazak.end" dur="0.5s" fill="freeze" id="ruka_5_dolazak"/>
+
+    <animate attributeName="x" from="183" to="183" begin="ruka_5_dolazak.end" dur="1.5s" fill="freeze" id="ruka_5_pokret" />
+    <animate attributeName="y" from="-315" to="-473" begin="ruka_5_dolazak.end" dur="1.5s" fill="freeze" id="ruka_5_pokret"/>
+
+    <animate attributeName="x" from="183" to="580" begin="ruka_5_pokret.end" dur="0.5s" fill="freeze" id="ruka_5_odlazak" />
+    <animate attributeName="y" from="-473" to="-1000" begin="ruka_5_pokret.end" dur="0.5s" fill="freeze" id="ruka_5_odlazak"/>
+
+
+
+    <animate attributeName="x" from="580" to="577" begin="ruka_5_odlazak.end" dur="0.5s" fill="freeze" id="ruka_6_dolazak" />
+    <animate attributeName="y" from="-1000" to="-555" begin="ruka_5_odlazak.end" dur="0.5s" fill="freeze" id="ruka_6_dolazak"/>
+
+    <animate attributeName="x" from="577" to="442" begin="ruka_6_dolazak.end" dur="1.5s" fill="freeze" id="ruka_6_pokret" />
+    <animate attributeName="y" from="-555" to="-477" begin="ruka_6_dolazak.end" dur="1.5s" fill="freeze" id="ruka_6_pokret"/>
+
+    <animate attributeName="x" from="442" to="580" begin="ruka_6_pokret.end" dur="0.5s" fill="freeze" id="ruka_6_odlazak" />
+    <animate attributeName="y" from="-477" to="-1000" begin="ruka_6_pokret.end" dur="0.5s" fill="freeze" id="ruka_6_odlazak"/>
+
+
+
+    <animate attributeName="x" from="580" to="313" begin="ruka_6_odlazak.end" dur="0.5s" fill="freeze" id="ruka_7_dolazak" />
+    <animate attributeName="y" from="-1000" to="-480" begin="ruka_6_odlazak.end" dur="0.5s" fill="freeze" id="ruka_7_dolazak"/>
+
+    <animate attributeName="x" from="313" to="442" begin="ruka_7_dolazak.end" dur="1.5s" fill="freeze" id="ruka_7_pokret" />
+    <animate attributeName="y" from="-480" to="-477" begin="ruka_7_dolazak.end" dur="1.5s" fill="freeze" id="ruka_7_pokret"/>
+
+    <animate attributeName="x" from="442" to="580" begin="ruka_7_pokret.end" dur="0.5s" fill="freeze" id="ruka_7_odlazak" />
+    <animate attributeName="y" from="-477" to="-1000" begin="ruka_7_pokret.end" dur="0.5s" fill="freeze" id="ruka_7_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="313" begin="ruka_7_odlazak.end" dur="0.5s" fill="freeze" id="ruka_8_dolazak" />
+    <animate attributeName="y" from="-1000" to="-705" begin="ruka_7_odlazak.end" dur="0.5s" fill="freeze" id="ruka_8_dolazak"/>
+
+    <animate attributeName="x" from="313" to="308" begin="ruka_8_dolazak.end" dur="1.5s" fill="freeze" id="ruka_8_pokret" />
+    <animate attributeName="y" from="-705" to="-327" begin="ruka_8_dolazak.end" dur="1.5s" fill="freeze" id="ruka_8_pokret"/>
+
+    <animate attributeName="x" from="308" to="580" begin="ruka_8_pokret.end" dur="0.5s" fill="freeze" id="ruka_8_odlazak" />
+    <animate attributeName="y" from="-327" to="-1000" begin="ruka_8_pokret.end" dur="0.5s" fill="freeze" id="ruka_8_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="48" begin="ruka_8_odlazak.end" dur="0.5s" fill="freeze" id="ruka_9_dolazak" />
+    <animate attributeName="y" from="-1000" to="-405" begin="ruka_8_odlazak.end" dur="0.5s" fill="freeze" id="ruka_9_dolazak"/>
+
+    <animate attributeName="x" from="48" to="578" begin="ruka_9_dolazak.end" dur="1.5s" fill="freeze" id="ruka_9_pokret" />
+    <animate attributeName="y" from="-405" to="-403" begin="ruka_9_dolazak.end" dur="1.5s" fill="freeze" id="ruka_9_pokret"/>
+
+    <animate attributeName="x" from="578" to="580" begin="ruka_9_pokret.end" dur="0.5s" fill="freeze" id="ruka_9_odlazak" />
+    <animate attributeName="y" from="-403" to="-1000" begin="ruka_9_pokret.end" dur="0.5s" fill="freeze" id="ruka_9_odlazak"/>
+
+
+
+    <animate attributeName="x" from="580" to="643" begin="ruka_9_odlazak.end" dur="0.5s" fill="freeze" id="ruka_10_dolazak" />
+    <animate attributeName="y" from="-1000" to="-520" begin="ruka_9_odlazak.end" dur="0.5s" fill="freeze" id="ruka_10_dolazak"/>
+
+    <animate attributeName="x" from="643" to="573" begin="ruka_10_dolazak.end" dur="1.5s" fill="freeze" id="ruka_10_pokret" />
+    <animate attributeName="y" from="-520" to="-482" begin="ruka_10_dolazak.end" dur="1.5s" fill="freeze" id="ruka_10_pokret"/>
+
+    <animate attributeName="x" from="573" to="580" begin="ruka_10_pokret.end" dur="0.5s" fill="freeze" id="ruka_10_odlazak" />
+    <animate attributeName="y" from="-482" to="-1000" begin="ruka_10_pokret.end" dur="0.5s" fill="freeze" id="ruka_10_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="443" begin="ruka_10_odlazak.end" dur="0.5s" fill="freeze" id="ruka_11_dolazak" />
+    <animate attributeName="y" from="-1000" to="-480" begin="ruka_10_odlazak.end" dur="0.5s" fill="freeze" id="ruka_11_dolazak"/>
+
+    <animate attributeName="x" from="443" to="573" begin="ruka_11_dolazak.end" dur="1.5s" fill="freeze" id="ruka_11_pokret" />
+    <animate attributeName="y" from="-480" to="-480" begin="ruka_11_dolazak.end" dur="1.5s" fill="freeze" id="ruka_11_pokret"/>
+
+    <animate attributeName="x" from="573" to="580" begin="ruka_11_pokret.end" dur="0.5s" fill="freeze" id="ruka_11_odlazak" />
+    <animate attributeName="y" from="-480" to="-1000" begin="ruka_11_pokret.end" dur="0.5s" fill="freeze" id="ruka_11_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="710" begin="ruka_11_odlazak.end" dur="0.5s" fill="freeze" id="ruka_12_dolazak" />
+    <animate attributeName="y" from="-1000" to="-550" begin="ruka_11_odlazak.end" dur="0.5s" fill="freeze" id="ruka_12_dolazak"/>
+
+    <animate attributeName="x" from="710" to="510" begin="ruka_12_dolazak.end" dur="1.5s" fill="freeze" id="ruka_12_pokret" />
+    <animate attributeName="y" from="-550" to="-510" begin="ruka_12_dolazak.end" dur="1.5s" fill="freeze" id="ruka_12_pokret"/>
+
+    <animate attributeName="x" from="510" to="580" begin="ruka_12_pokret.end" dur="0.5s" fill="freeze" id="ruka_12_odlazak" />
+    <animate attributeName="y" from="-510" to="-1000" begin="ruka_12_pokret.end" dur="0.5s" fill="freeze" id="ruka_12_odlazak"/>
+
+
+
+    <animate attributeName="x" from="580" to="575" begin="ruka_12_odlazak.end" dur="0.5s" fill="freeze" id="ruka_13_dolazak" />
+    <animate attributeName="y" from="-1000" to="-480" begin="ruka_12_odlazak.end" dur="0.5s" fill="freeze" id="ruka_13_dolazak"/>
+
+    <animate attributeName="x" from="575" to="715" begin="ruka_13_dolazak.end" dur="1.5s" fill="freeze" id="ruka_13_pokret" />
+    <animate attributeName="y" from="-480" to="-480" begin="ruka_13_dolazak.end" dur="1.5s" fill="freeze" id="ruka_13_pokret"/>
+
+    <animate attributeName="x" from="715" to="580" begin="ruka_13_pokret.end" dur="0.5s" fill="freeze" id="ruka_13_odlazak" />
+    <animate attributeName="y" from="-480" to="-1000" begin="ruka_13_pokret.end" dur="0.5s" fill="freeze" id="ruka_13_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="510" begin="ruka_13_odlazak.end" dur="0.5s" fill="freeze" id="ruka_14_dolazak" />
+    <animate attributeName="y" from="-1000" to="-510" begin="ruka_13_odlazak.end" dur="0.5s" fill="freeze" id="ruka_14_dolazak"/>
+
+    <animate attributeName="x" from="510" to="577" begin="ruka_14_dolazak.end" dur="1.5s" fill="freeze" id="ruka_14_pokret" />
+    <animate attributeName="y" from="-510" to="-400" begin="ruka_14_dolazak.end" dur="1.5s" fill="freeze" id="ruka_14_pokret"/>
+
+    <animate attributeName="x" from="577" to="580" begin="ruka_14_pokret.end" dur="0.5s" fill="freeze" id="ruka_14_odlazak" />
+    <animate attributeName="y" from="-400" to="-1000" begin="ruka_14_pokret.end" dur="0.5s" fill="freeze" id="ruka_14_odlazak"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="185" begin="ruka_14_odlazak.end" dur="0.5s" fill="freeze" id="ruka_15_dolazak" />
+    <animate attributeName="y" from="-1000" to="-475" begin="ruka_14_odlazak.end" dur="0.5s" fill="freeze" id="ruka_15_dolazak"/>
+
+    <animate attributeName="x" from="185" to="585" begin="ruka_15_dolazak.end" dur="1.5s" fill="freeze" id="ruka_15_pokret" />
+    <animate attributeName="y" from="-475" to="-475" begin="ruka_15_dolazak.end" dur="1.5s" fill="freeze" id="ruka_15_pokret"/>
+
+    <animate attributeName="x" from="585" to="580" begin="ruka_15_pokret.end" dur="0.5s" fill="freeze" id="ruka_15_odlazak" />
+    <animate attributeName="y" from="-475" to="-1000" begin="ruka_15_pokret.end" dur="0.5s" fill="freeze" id="ruka_15_odlazak"/>
+
+
+
+
+
+</image>
+
+
+
+<image x="580" y="-1000" width="1000" height="1000" href="SVG/robot_crveni.svg" >
+
+    <animate attributeName="x" from="580" to="442" begin="ruka_6_odlazak.end" dur="1s" fill="freeze" id="crvena_dolazak_1" />
+    <animate attributeName="y" from="-1200" to="-477" begin="ruka_6_odlazak.end" dur="1s" fill="freeze" id="crvena_dolazak_1"/>
+
+    <animate attributeName="x" from="442" to="580" begin="crvena_dolazak_1.end" dur="1s" fill="freeze" id="crvena_odlazak_1" />
+    <animate attributeName="y" from="-477" to="-1100" begin="crvena_dolazak_1.end" dur="1s" fill="freeze" id="crvena_odlazak_1"/>
+
+
+
+
+    <animate attributeName="x" from="580" to="310" begin="ruka_8_dolazak.end" dur="1s" fill="freeze" id="crvena_dolazak_2" />
+    <animate attributeName="y" from="-1200" to="-330" begin="ruka_8_dolazak.end" dur="1s" fill="freeze" id="crvena_dolazak_2"/>
+
+    <animate attributeName="x" from="310" to="580" begin="crvena_dolazak_2.end" dur="1s" fill="freeze" id="crvena_odlazak_2" />
+    <animate attributeName="y" from="-330" to="-1200" begin="crvena_dolazak_2.end" dur="1s" fill="freeze" id="crvena_odlazak_2"/>
+
+
+
+    <animate attributeName="x" from="580" to="575" begin="ruka_11_dolazak.end" dur="0.75s" fill="freeze" id="crvena_dolazak_3" />
+    <animate attributeName="y" from="-1200" to="-480" begin="ruka_11_dolazak.end" dur="0.75s" fill="freeze" id="crvena_dolazak_3"/>
+
+    <animate attributeName="x" from="575" to="580" begin="crvena_dolazak_3.end" dur="0.75s" fill="freeze" id="crvena_odlazak_3" />
+    <animate attributeName="y" from="-480" to="-1200" begin="crvena_dolazak_3.end" dur="0.75s" fill="freeze" id="crvena_odlazak_3"/>
+
+
+
+    <animate attributeName="x" from="580" to="715" begin="ruka_13_dolazak.end" dur="0.75s" fill="freeze" id="crvena_dolazak_4" />
+    <animate attributeName="y" from="-1200" to="-480" begin="ruka_13_dolazak.end" dur="0.75s" fill="freeze" id="crvena_dolazak_4"/>
+
+    <animate attributeName="x" from="715" to="580" begin="crvena_dolazak_4.end" dur="0.75s" fill="freeze" id="crvena_odlazak_4" />
+    <animate attributeName="y" from="-480" to="-1200" begin="crvena_dolazak_4.end" dur="0.75s" fill="freeze" id="crvena_odlazak_4"/>
+
+
+
+    <animate attributeName="x" from="580" to="580" begin="ruka_14_dolazak.end" dur="0.75" fill="freeze" id="crvena_dolazak_5" />
+    <animate attributeName="y" from="-1200" to="-400" begin="ruka_14_dolazak.end" dur="0.75s" fill="freeze" id="crvena_dolazak_5"/>
+
+    <animate attributeName="x" from="580" to="580" begin="crvena_dolazak_5.end" dur="0.75s" fill="freeze" id="crvena_odlazak_5" />
+    <animate attributeName="y" from="-400" to="-1200" begin="crvena_dolazak_5.end" dur="0.75s" fill="freeze" id="crvena_odlazak_5"/>
+
+
+</image>
+
+
+
+<image x="380" y="-1000" width="1000" height="1000" href="SVG/robot_ime.svg" >
+
+    <animate attributeName="x" from="380" to="1000" begin="ruka_15_odlazak.end+1s" dur="1s" fill="freeze" />
+    <animate attributeName="y" from="-1000" to="-700" begin="ruka_15_odlazak.end+1s" dur="1s" fill="freeze"/>
+
+</image>
+
+
+</svg>
+
+
